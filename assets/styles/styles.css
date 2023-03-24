@@ -44,3 +44,6 @@ header ul li a:hover::after{
   opacity: 1;
 }
 
+section {
+  padding: 0 40px;
+}
